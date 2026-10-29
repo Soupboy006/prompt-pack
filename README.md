@@ -4,6 +4,8 @@ Copy-paste AI prompts for daily life. No coding. No tech background needed.
 
 Built by a non-tech builder learning in public. Use with ChatGPT, Claude, Gemini, OpenCode, any AI.
 
+> **Also on Agensi** (install as a one-tap agent skill): [everyday-beginner-playbook](https://agensi.io/skills/everyday-beginner-playbook) · Weekly growth updates in this repo's issues.
+
 ## How to use
 1. Pick a file in `prompts/`
 2. Copy a prompt

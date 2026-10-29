@@ -12,10 +12,13 @@ Built by a non-tech builder learning in public. Use with ChatGPT, Claude, Gemini
 
 Start: `prompts/daily-life.md`
 
-## Prompts included
-- `daily-life.md` - write messages, plan day, translate, explain bills/forms
-- `study.md` - learn anything from zero, simple explanations
-- `phone-help.md` - fix Android / Termux problems step by step
+## Prompts included (55)
+- `daily-life.md` (14) - write messages, plan day, refunds, wishes, decisions, scam checks
+- `study.md` (14) - learn anything from zero, flashcards, essay plans, exam prep, English practice
+- `phone-help.md` (15) - fix Android / Termux problems step by step, storage, battery, privacy
+- `money-help.md` (12) - budgets, bank messages, loans, subscriptions, pricing your work
+
+Every prompt works on any AI app. Beginners always get plain words, step by step.
 
 ## Add your own (no git needed)
 Open an Issue with `Add a prompt` template. Just paste your prompt in plain words. I will add it for you and credit you.
@@ -23,3 +26,6 @@ Open an Issue with `Add a prompt` template. Just paste your prompt in plain word
 Or edit a file and open a PR if you know how.
 
 See `CONTRIBUTING.md`.
+
+## License
+MIT - free to use and re-share. Attribution welcome: [github.com/Soupboy006/prompt-pack](https://github.com/Soupboy006/prompt-pack)

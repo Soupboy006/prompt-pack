@@ -14,10 +14,10 @@ Built by a non-tech builder learning in public. Use with ChatGPT, Claude, Gemini
 
 Start: `prompts/daily-life.md`
 
-## Prompts included (55)
+## Prompts included (56)
 - `daily-life.md` (14) - write messages, plan day, refunds, wishes, decisions, scam checks
 - `study.md` (14) - learn anything from zero, flashcards, essay plans, exam prep, English practice
-- `phone-help.md` (15) - fix Android / Termux problems step by step, storage, battery, privacy
+- `phone-help.md` (16) - fix Android / Termux problems step by step, storage, battery, privacy
 - `money-help.md` (12) - budgets, bank messages, loans, subscriptions, pricing your work
 
 Every prompt works on any AI app. Beginners always get plain words, step by step.

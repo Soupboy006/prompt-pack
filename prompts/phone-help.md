@@ -102,3 +102,13 @@ How do I back up first, and how do I undo it?
 How do I update all my Termux packages safely?
 Include: the update command, what each part means, and what to do if mid-way it fails.
 ```
+
+## Stop backup breaking when folder gets deleted
+```
+My phone photo folder is [folder name]. I back it up with [backup app name].
+When I delete ALL my photos, the empty folder itself gets deleted too,
+so the backup app loses the folder and stops backing up.
+Is there a setting to keep the folder from being deleted?
+If not, give me the simplest workaround, step by step.
+```
+Watch out for: many camera apps have no such setting. Workarounds: leave one tiny photo in the folder, or re-pick the folder in your backup app after each cleanup.
